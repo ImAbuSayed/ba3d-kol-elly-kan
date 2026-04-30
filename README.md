@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> import re
+> lyrics = """
+> يا نور العين في ظلمة ليلي
+> أنت الروح والنبض في قلبي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
